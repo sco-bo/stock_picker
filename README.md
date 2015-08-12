@@ -1,0 +1,1 @@
+This Stock Picker takes in an array of stock prices then returns a pair of days representing the best day on which to sell. 
